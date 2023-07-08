@@ -3,7 +3,7 @@ using UnityEngine;
 public class ParallaxBehavior : MonoBehaviour
 {
     [SerializeField] private Transform _target;
-    [SerializeField] private float _speed = 1f;
+    [SerializeField][Range(-2f, 2f)] private float _speed = 1f;
     [SerializeField] private bool _lockVertical;
     Vector3 trargetPrevPos;
 

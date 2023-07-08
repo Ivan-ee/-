@@ -5,26 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d5e866c7-3144-4827-b7c9-be4fd1d4c153" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Game/Art/ассеты, слои.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Game/Art/ассеты, слои/зад-план.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Game/Art/ассеты, слои/зад-план.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Game/Art/ассеты, слои/пер-план.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Game/Art/ассеты, слои/пер-план.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Game/Art/ассеты, слои/платф.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Game/Art/ассеты, слои/платф.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/TestObjects/Ground.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/TestObjects/Ground.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/WorkWithParallax Scene.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/WorkWithParallax Scene.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/Managers/ParallaxBehavior.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/Inputs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/Inputs/Player_Input.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/Inputs/Player_Input.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CatGame-Unity2D/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CatGame-Unity2D/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Game/Art/Sprites/SpriteSV.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game/Art/Sprites/SpriteSV.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Level.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Level.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/TheJumpingScene &amp; Dialogue.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/TheJumpingScene &amp; Dialogue.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/Managers/ParallaxBehavior.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/Managers/ParallaxBehavior.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +22,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Info/InventorySO.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@3.0.6/Scripts/Editor/TMPro_CreateObjectMenu.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@3.0.6/Scripts/Runtime/TMP_SubMeshUI.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@3.0.6/Scripts/Runtime/TMPro_UGUI_Private.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Runtime/UI/Core/Button.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
@@ -159,6 +145,8 @@
       <workItem from="1685815478538" duration="138000" />
       <workItem from="1685815703702" duration="311000" />
       <workItem from="1685863841144" duration="3129000" />
+      <workItem from="1687372578661" duration="426000" />
+      <workItem from="1687442896194" duration="2405000" />
     </task>
     <servers />
   </component>
