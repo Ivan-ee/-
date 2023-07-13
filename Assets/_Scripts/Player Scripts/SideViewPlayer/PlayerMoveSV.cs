@@ -4,6 +4,9 @@ using UnityEngine;
 
 public class PlayerMoveSV : MonoBehaviour
 {
+    [Header("Player ID")] 
+    [SerializeField] private string _playerID;
+    
     [Header("Moving")]
     [SerializeField] private float _speed;
     [SerializeField] private float _jumpForce;

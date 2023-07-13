@@ -8,4 +8,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/InventoryScene.unity
     guid: 8a8fa3d670d60944388f6f9fd16d234f
+  - enabled: 1
+    path: Assets/InventoryEngine/InventoryEngine/Demos/PixelRogue/PixelRogueRoom1.unity
+    guid: bbd1671f1789c734ebafbab88956dd66
   m_configObjects: {}
